@@ -21,9 +21,12 @@ Quinta-Feira
 
 Sexta-Feira
       - 11% crianças
-    
 
 Domingo/Sábados/Feriados
       - 5% Idosos
 
-OBS1.: Todo estudante mediante apresentação da carteirinha de estudante possui para todos os dias da semana, exceto finais de semana 35% de desconto em todos os ingressos;
+OBS1.: Todo estudante mediante apresentação da carteirinha de estudante 
+       possui para todos os dias da semana, exceto finais de semana, 
+       35% de desconto em todos os ingressos;
+
+OBS2.: Descontos não são cumulativos.
