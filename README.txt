@@ -1,3 +1,4 @@
+
 Calcule os seguintes descontos para as entradas dado o preço dos ingressos:
 
 - Crianças: R$ 5.50
